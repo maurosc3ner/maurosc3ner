@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maurosc3ner
-- 👀 I’m interested in Numerical computing ∩ models ∩ #gischat ∩ #Rstats ∩ #dataviz
+- 👀 I’m interested in the intersection between Numerical computing ∩ models ∩ #gischat ∩ #Rstats ∩ #dataviz
 - 🌱 I’m currently working in prediction models for EHR systems
 - 💞️ I’m looking to collaborate on bayesian models
 - 📫 How to reach me @maurosc3ner (Twitter)
